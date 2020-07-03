@@ -140,7 +140,7 @@ public class Paso6MEF extends javax.swing.JFrame {
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenReglaGeneral = new ImageIcon(getClass().getResource("/Resources/Paso_6.png"));
+        ImageIcon imagenReglaGeneral = new ImageIcon(getClass().getResource("/Resources/Paso_6.PNG"));
         ImagenReglaGeneral.setIcon(imagenReglaGeneral);
     }//GEN-LAST:event_jButton3ActionPerformed
 
@@ -152,7 +152,7 @@ public class Paso6MEF extends javax.swing.JFrame {
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenIntegral1 = new ImageIcon(getClass().getResource("/Resources/Paso_6_1.png"));
+        ImageIcon imagenIntegral1 = new ImageIcon(getClass().getResource("/Resources/Paso_6_1.PNG"));
         ImagenPaso6.setIcon(imagenIntegral1);
     }//GEN-LAST:event_jButton6ActionPerformed
 

@@ -93,7 +93,7 @@ public class Paso2MEF extends javax.swing.JFrame {
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
         
-        ImageIcon imagenPaso2 = new ImageIcon(getClass().getResource("/Resources/Paso_2.png"));
+        ImageIcon imagenPaso2 = new ImageIcon(getClass().getResource("/Resources/Paso_2.PNG"));
         ImagenPaso2.setIcon(imagenPaso2);
     }//GEN-LAST:event_jButton2ActionPerformed
 

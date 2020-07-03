@@ -168,7 +168,7 @@ public class AplicacionCondicionesMEF extends javax.swing.JFrame {
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
         
-        ImageIcon imagenApliCc2 = new ImageIcon(getClass().getResource("/Resources/AplicDN_2.png"));
+        ImageIcon imagenApliCc2 = new ImageIcon(getClass().getResource("/Resources/AplicDN_2.PNG"));
         ImagenComponent3.setVisible(false);
         ImagenComponent4.setVisible(false);
         ImagenComponent5.setVisible(false);
@@ -179,7 +179,7 @@ public class AplicacionCondicionesMEF extends javax.swing.JFrame {
 
     private void jButton11ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton11ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenMatrizR2 = new ImageIcon(getClass().getResource("/Resources/MatrizR_2.png"));
+        ImageIcon imagenMatrizR2 = new ImageIcon(getClass().getResource("/Resources/MatrizR_2.PNG"));
         ImagenComponent1.setVisible(false);
         ImagenComponent2.setVisible(false);
         ImagenComponent3.setVisible(false);
@@ -191,7 +191,7 @@ public class AplicacionCondicionesMEF extends javax.swing.JFrame {
     private void jButton12ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton12ActionPerformed
         // TODO add your handling code here:
         
-        ImageIcon imagenApliCc = new ImageIcon(getClass().getResource("/Resources/AplicDN.png"));
+        ImageIcon imagenApliCc = new ImageIcon(getClass().getResource("/Resources/AplicDN.PNG"));
         ImagenComponent2.setVisible(false);
         ImagenComponent3.setVisible(false);
         ImagenComponent4.setVisible(false);
@@ -202,7 +202,7 @@ public class AplicacionCondicionesMEF extends javax.swing.JFrame {
 
     private void jButton13ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton13ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenDir = new ImageIcon(getClass().getResource("/Resources/MatrizR_3.png"));
+        ImageIcon imagenDir = new ImageIcon(getClass().getResource("/Resources/MatrizR_3.PNG"));
         ImagenComponent1.setVisible(false);
         ImagenComponent2.setVisible(false);
         ImagenComponent3.setVisible(false);
@@ -213,7 +213,7 @@ public class AplicacionCondicionesMEF extends javax.swing.JFrame {
 
     private void jButton14ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton14ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenMatrizR = new ImageIcon(getClass().getResource("/Resources/MatrizR.png"));
+        ImageIcon imagenMatrizR = new ImageIcon(getClass().getResource("/Resources/MatrizR.PNG"));
         ImagenComponent1.setVisible(false);
         ImagenComponent2.setVisible(false);
         ImagenComponent4.setVisible(false);

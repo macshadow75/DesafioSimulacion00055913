@@ -127,7 +127,7 @@ public class ElementosNodosMEF extends javax.swing.JFrame {
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
         // TODO add your handling code here:
         
-        ImageIcon imagenElemento2  = new ImageIcon(getClass().getResource("/Resources/Elemento_2.png"));
+        ImageIcon imagenElemento2  = new ImageIcon(getClass().getResource("/Resources/Elemento_2.PNG"));
         ImagenElementos.setIcon(imagenElemento2);
     }//GEN-LAST:event_jButton4ActionPerformed
 
@@ -143,31 +143,31 @@ public class ElementosNodosMEF extends javax.swing.JFrame {
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
         
-        ImageIcon imagenElemento3 = new ImageIcon(getClass().getResource("/Resources/Elemento_3.png"));
+        ImageIcon imagenElemento3 = new ImageIcon(getClass().getResource("/Resources/Elemento_3.PNG"));
         ImagenElementos.setIcon(imagenElemento3);
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenElemento = new ImageIcon(getClass().getResource("/Resources/Elemento_1.png"));
+        ImageIcon imagenElemento = new ImageIcon(getClass().getResource("/Resources/Elemento_1.PNG"));
         ImagenElementos.setIcon(imagenElemento);
     }//GEN-LAST:event_jButton6ActionPerformed
 
     private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenElemento6 = new ImageIcon(getClass().getResource("/Resources/Elemento_6.png"));
+        ImageIcon imagenElemento6 = new ImageIcon(getClass().getResource("/Resources/Elemento_6.PNG"));
         ImagenElementos.setIcon(imagenElemento6);
     }//GEN-LAST:event_jButton7ActionPerformed
 
     private void jButton8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton8ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenElemento5 = new ImageIcon(getClass().getResource("/Resources/Elemento_5.png"));
+        ImageIcon imagenElemento5 = new ImageIcon(getClass().getResource("/Resources/Elemento_5.PNG"));
         ImagenElementos.setIcon(imagenElemento5);
     }//GEN-LAST:event_jButton8ActionPerformed
 
     private void jButton10ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton10ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenElemento4 = new ImageIcon(getClass().getResource("/Resources/Elemento_4.png"));
+        ImageIcon imagenElemento4 = new ImageIcon(getClass().getResource("/Resources/Elemento_4.PNG"));
         ImagenElementos.setIcon(imagenElemento4);
     }//GEN-LAST:event_jButton10ActionPerformed
 

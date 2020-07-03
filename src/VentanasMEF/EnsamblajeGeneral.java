@@ -126,7 +126,7 @@ public class EnsamblajeGeneral extends javax.swing.JFrame {
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
         
-        ImageIcon imagenEnsamblajeGlb2 = new ImageIcon(getClass().getResource("/Resources/EnsamblajeGlobal_1.png"));
+        ImageIcon imagenEnsamblajeGlb2 = new ImageIcon(getClass().getResource("/Resources/EnsamblajeGlobal_1.PNG"));
         ImagenComponent1.setVisible(false);
         ImagenComponent2.setVisible(true);
         ImagenComponent2.setIcon(imagenEnsamblajeGlb2);
@@ -134,7 +134,7 @@ public class EnsamblajeGeneral extends javax.swing.JFrame {
 
     private void jButton11ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton11ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenEnsamblajeGlb = new ImageIcon(getClass().getResource("/Resources/EnsamblajeGlobal.png"));
+        ImageIcon imagenEnsamblajeGlb = new ImageIcon(getClass().getResource("/Resources/EnsamblajeGlobal.PNG"));
         ImagenComponent2.setVisible(false);
         ImagenComponent1.setVisible(true);
         ImagenComponent1.setIcon(imagenEnsamblajeGlb);

@@ -57,7 +57,8 @@ public class DominioMEF extends javax.swing.JFrame {
         getContentPane().add(jButton9, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 580, 120, 30));
 
         ImagenDominio.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Resources/Dominio.PNG"))); // NOI18N
-        getContentPane().add(ImagenDominio, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 60, 470, 440));
+        ImagenDominio.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 5));
+        getContentPane().add(ImagenDominio, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 60, -1, 440));
 
         jLabel3.setFont(new java.awt.Font("Snap ITC", 1, 24)); // NOI18N
         jLabel3.setForeground(new java.awt.Color(51, 0, 51));

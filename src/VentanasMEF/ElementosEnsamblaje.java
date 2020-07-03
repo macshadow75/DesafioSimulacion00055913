@@ -166,7 +166,7 @@ public class ElementosEnsamblaje extends javax.swing.JFrame {
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
         
-        ImageIcon imagenElementoN2 = new ImageIcon(getClass().getResource("/Resources/ElementoNodo_2.png"));
+        ImageIcon imagenElementoN2 = new ImageIcon(getClass().getResource("/Resources/ElementoNodo_2.PNG"));
         ImagenElementoPQ.setVisible(false);
         ImagenElemento.setVisible(true);
         ImagenElemento.setIcon(imagenElementoN2);
@@ -174,7 +174,7 @@ public class ElementosEnsamblaje extends javax.swing.JFrame {
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenElementoN4 = new ImageIcon(getClass().getResource("/Resources/ElementoNodo_4.png"));
+        ImageIcon imagenElementoN4 = new ImageIcon(getClass().getResource("/Resources/ElementoNodo_4.PNG"));
         ImagenElemento.setVisible(false);
         ImagenElementoPQ.setVisible(true);
         ImagenElementoPQ.setIcon(imagenElementoN4);
@@ -182,7 +182,7 @@ public class ElementosEnsamblaje extends javax.swing.JFrame {
 
     private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenElementoN3 = new ImageIcon(getClass().getResource("/Resources/ElementoNodo_3.png"));
+        ImageIcon imagenElementoN3 = new ImageIcon(getClass().getResource("/Resources/ElementoNodo_3.PNG"));
         ImagenElemento.setVisible(false);
         ImagenElementoPQ.setVisible(true);
         ImagenElementoPQ.setIcon(imagenElementoN3);
@@ -190,7 +190,7 @@ public class ElementosEnsamblaje extends javax.swing.JFrame {
 
     private void jButton8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton8ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenElementoN5 = new ImageIcon(getClass().getResource("/Resources/ElementoNodo_5.png"));
+        ImageIcon imagenElementoN5 = new ImageIcon(getClass().getResource("/Resources/ElementoNodo_5.PNG"));
         ImagenElementoPQ.setVisible(false);
         ImagenElemento.setVisible(true);
         ImagenElemento.setIcon(imagenElementoN5);
@@ -198,7 +198,7 @@ public class ElementosEnsamblaje extends javax.swing.JFrame {
 
     private void jButton10ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton10ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenElementoN6 = new ImageIcon(getClass().getResource("/Resources/ElementoNodo_6.png"));
+        ImageIcon imagenElementoN6 = new ImageIcon(getClass().getResource("/Resources/ElementoNodo_6.PNG"));
         ImagenElemento.setVisible(false);
         ImagenElementoPQ.setVisible(true);
         ImagenElementoPQ.setIcon(imagenElementoN6);
@@ -206,7 +206,7 @@ public class ElementosEnsamblaje extends javax.swing.JFrame {
 
     private void jButton11ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton11ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenElementoN = new ImageIcon(getClass().getResource("/Resources/ElementoNodo_1.png"));
+        ImageIcon imagenElementoN = new ImageIcon(getClass().getResource("/Resources/ElementoNodo_1.PNG"));
         ImagenElementoPQ.setVisible(false);
         ImagenElemento.setVisible(true);
         ImagenElemento.setIcon(imagenElementoN);
