@@ -103,7 +103,7 @@ public class ComponenteO extends javax.swing.JFrame {
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenDefO = new ImageIcon(getClass().getResource("/Resources/Def_O.png"));
+        ImageIcon imagenDefO = new ImageIcon(getClass().getResource("/Resources/Def_O.PNG"));
         ImagenDefO.setIcon(imagenDefO);
     }//GEN-LAST:event_jButton6ActionPerformed
 

@@ -106,19 +106,19 @@ public class ComponenteM extends javax.swing.JFrame {
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
         
-        ImageIcon imagenDefM2 = new ImageIcon(getClass().getResource("/Resources/Def_M1.png"));
+        ImageIcon imagenDefM2 = new ImageIcon(getClass().getResource("/Resources/Def_M1.PNG"));
         ImagenDefM.setIcon(imagenDefM2);
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenDefM = new ImageIcon(getClass().getResource("/Resources/Def_M.png"));
+        ImageIcon imagenDefM = new ImageIcon(getClass().getResource("/Resources/Def_M.PNG"));
         ImagenDefM.setIcon(imagenDefM);
     }//GEN-LAST:event_jButton6ActionPerformed
 
     private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenDefM3 = new ImageIcon(getClass().getResource("/Resources/Def_M2.png"));
+        ImageIcon imagenDefM3 = new ImageIcon(getClass().getResource("/Resources/Def_M2.PNG"));
         ImagenDefM.setIcon(imagenDefM3);
     }//GEN-LAST:event_jButton7ActionPerformed
 

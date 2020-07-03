@@ -144,31 +144,31 @@ public class ComponenteG extends javax.swing.JFrame {
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
         
-        ImageIcon imagenDefG2 = new ImageIcon(getClass().getResource("/Resources/Def_G1.png"));
+        ImageIcon imagenDefG2 = new ImageIcon(getClass().getResource("/Resources/Def_G1.PNG"));
         ImagenDefG.setIcon(imagenDefG2);
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton5ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenDefG5 = new ImageIcon(getClass().getResource("/Resources/Def_G4.png"));
+        ImageIcon imagenDefG5 = new ImageIcon(getClass().getResource("/Resources/Def_G4.PNG"));
         ImagenDefG.setIcon(imagenDefG5);
     }//GEN-LAST:event_jButton5ActionPerformed
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenDefG = new ImageIcon(getClass().getResource("/Resources/Def_G.png"));
+        ImageIcon imagenDefG = new ImageIcon(getClass().getResource("/Resources/Def_G.PNG"));
         ImagenDefG.setIcon(imagenDefG);
     }//GEN-LAST:event_jButton6ActionPerformed
 
     private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenDefG3 = new ImageIcon(getClass().getResource("/Resources/Def_G2.png"));
+        ImageIcon imagenDefG3 = new ImageIcon(getClass().getResource("/Resources/Def_G2.PNG"));
         ImagenDefG.setIcon(imagenDefG3);
     }//GEN-LAST:event_jButton7ActionPerformed
 
     private void jButton8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton8ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenDefG4 = new ImageIcon(getClass().getResource("/Resources/Def_G3.png"));
+        ImageIcon imagenDefG4 = new ImageIcon(getClass().getResource("/Resources/Def_G3.PNG"));
         ImagenDefG.setIcon(imagenDefG4);
     }//GEN-LAST:event_jButton8ActionPerformed
 

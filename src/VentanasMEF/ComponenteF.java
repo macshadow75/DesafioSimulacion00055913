@@ -130,13 +130,13 @@ public class ComponenteF extends javax.swing.JFrame {
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenDefF = new ImageIcon(getClass().getResource("/Resources/Def_F.png"));
+        ImageIcon imagenDefF = new ImageIcon(getClass().getResource("/Resources/Def_F.PNG"));
         ImagenDefF.setIcon(imagenDefF);
     }//GEN-LAST:event_jButton6ActionPerformed
 
     private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenDefF3 = new ImageIcon(getClass().getResource("/Resources/Def_F2.png"));
+        ImageIcon imagenDefF3 = new ImageIcon(getClass().getResource("/Resources/Def_F2.PNG"));
         ImagenDefF.setIcon(imagenDefF3);
     }//GEN-LAST:event_jButton7ActionPerformed
 

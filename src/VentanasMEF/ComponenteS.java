@@ -144,13 +144,13 @@ public class ComponenteS extends javax.swing.JFrame {
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
         
-        ImageIcon imagenDefS2 = new ImageIcon(getClass().getResource("/Resources/Def_S2.png"));
+        ImageIcon imagenDefS2 = new ImageIcon(getClass().getResource("/Resources/Def_S2.PNG"));
         ImagenDefS.setIcon(imagenDefS2);
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton5ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenDefS5 = new ImageIcon(getClass().getResource("/Resources/Def_S5.png"));
+        ImageIcon imagenDefS5 = new ImageIcon(getClass().getResource("/Resources/Def_S5.PNG"));
         ImagenDefS.setIcon(imagenDefS5);
     }//GEN-LAST:event_jButton5ActionPerformed
 
@@ -162,13 +162,13 @@ public class ComponenteS extends javax.swing.JFrame {
 
     private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenDefS3 = new ImageIcon(getClass().getResource("/Resources/Def_S3.png"));
+        ImageIcon imagenDefS3 = new ImageIcon(getClass().getResource("/Resources/Def_S3.PNG"));
         ImagenDefS.setIcon(imagenDefS3);
     }//GEN-LAST:event_jButton7ActionPerformed
 
     private void jButton8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton8ActionPerformed
         // TODO add your handling code here:
-        ImageIcon imagenDefS4 = new ImageIcon(getClass().getResource("/Resources/Def_S4.png"));
+        ImageIcon imagenDefS4 = new ImageIcon(getClass().getResource("/Resources/Def_S4.PNG"));
         ImagenDefS.setIcon(imagenDefS4);
     }//GEN-LAST:event_jButton8ActionPerformed
 
